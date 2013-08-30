@@ -1,0 +1,4 @@
+database.driver = $driver$
+database.url = $url$
+database.username = $username$
+database.password = $password$
